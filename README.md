@@ -12,8 +12,9 @@
 I'm a data analytics engineer working in the pharmaceutical industry, with a passion for using data to support strategic decisions. I love solving complex problems through data processing, analysis, and visualization.
 
 My previous work includes:
-- Writing stored procedures, functions, and complex SQL queries.
-- Creating ad-hoc reports and interactive dashboards to deliver business insights by BI tools
+● Data Processing: Responsible for developing and maintaining complex SQL Server scripts, including stored procedures, functions, queries, and updates. This involves writing efficient and optimized code to manage, manipulate, and process data, ensuring data integrity and performance across various databases. tasks include designing and implementing new database objects, optimizing existing queries, and troubleshooting any data-related issues to support business operations and analytics.
+● Ad-hoc Reporting: Create ad-hoc reports requiring domain knowledge in the healthcare industry (clients: BMS Healthcare,...) to provide an overview and facilitate strategic decision-making. 
+
 
 I also enjoy sharing what I learn on my YouTube channel — **Cùng Thy làm Data** — where I post content about data skills, Power BI, SQL, Python, and career development.
 
