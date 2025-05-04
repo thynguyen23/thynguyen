@@ -1,4 +1,4 @@
-# thynguyen
+
 # Hi there 👋! I'm Thy Nguyễn
 
 **Data Analytics Engineer and Data Enthusiast**
