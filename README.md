@@ -1,5 +1,5 @@
 
-# Hi there 👋! I'm Thy Nguyễn
+# Hi there 👋! I'm Thy Nguyen
 
 **Data Analytics Engineer and Data Enthusiast**
 
